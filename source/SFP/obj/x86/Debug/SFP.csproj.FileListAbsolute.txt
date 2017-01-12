@@ -1,0 +1,34 @@
+c:\users\user.user-pc\documents\visual studio 2010\Projects\SFP\SFP\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user.user-pc\documents\visual studio 2010\Projects\SFP\SFP\obj\x86\Debug\SFP.SFP_main.resources
+c:\users\user.user-pc\documents\visual studio 2010\Projects\SFP\SFP\obj\x86\Debug\SFP.Properties.Resources.resources
+c:\users\user.user-pc\documents\visual studio 2010\Projects\SFP\SFP\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user.user-pc\documents\visual studio 2010\Projects\SFP\SFP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user.user-PC\Documents\Visual Studio 2010\Projects\SFP\SFP\bin\Debug\Simple File Parser v1.4.1.exe
+C:\Users\user.user-PC\Documents\Visual Studio 2010\Projects\SFP\SFP\bin\Debug\Simple File Parser v1.4.1.pdb
+C:\Users\user.user-PC\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\Simple File Parser v1.4.1.exe
+C:\Users\user.user-PC\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\Simple File Parser v1.4.1.pdb
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\SFP.SFP_main.resources
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\SFP.Properties.Resources.resources
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\bin\Debug\Simple File Parser v1.5.exe
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\bin\Debug\Simple File Parser v1.5.pdb
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\Simple File Parser v1.5.exe
+C:\Users\user.user-PC\Tracing\Documents\Visual Studio 2010\Projects\SFP\SFP\obj\x86\Debug\Simple File Parser v1.5.pdb
+C:\Users\Christopher\Documents\Simple File Parser\SFP\bin\Debug\Simple File Parser v1.5.1.exe
+C:\Users\Christopher\Documents\Simple File Parser\SFP\bin\Debug\Simple File Parser v1.5.1.pdb
+C:\Users\Christopher\Documents\Simple File Parser\SFP\obj\x86\Debug\SFP.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Simple File Parser\SFP\obj\x86\Debug\SFP.SFP_main.resources
+C:\Users\Christopher\Documents\Simple File Parser\SFP\obj\x86\Debug\SFP.Properties.Resources.resources
+C:\Users\Christopher\Documents\Simple File Parser\SFP\obj\x86\Debug\SFP.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\Simple File Parser\SFP\obj\x86\Debug\Simple File Parser v1.5.1.exe
+C:\Users\Christopher\Documents\Simple File Parser\SFP\obj\x86\Debug\Simple File Parser v1.5.1.pdb
+C:\Users\Christopher\Documents\GitHub\simplefileparser\SFP\bin\Debug\Simple File Parser v1.6.exe
+C:\Users\Christopher\Documents\GitHub\simplefileparser\SFP\bin\Debug\Simple File Parser v1.6.pdb
+C:\Users\Christopher\Documents\GitHub\simplefileparser\SFP\obj\x86\Debug\SFP.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\GitHub\simplefileparser\SFP\obj\x86\Debug\SFP.SFP_main.resources
+C:\Users\Christopher\Documents\GitHub\simplefileparser\SFP\obj\x86\Debug\SFP.Properties.Resources.resources
+C:\Users\Christopher\Documents\GitHub\simplefileparser\SFP\obj\x86\Debug\SFP.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\GitHub\simplefileparser\SFP\obj\x86\Debug\Simple File Parser v1.6.exe
+C:\Users\Christopher\Documents\GitHub\simplefileparser\SFP\obj\x86\Debug\Simple File Parser v1.6.pdb
